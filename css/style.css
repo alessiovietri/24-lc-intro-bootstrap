@@ -1,0 +1,22 @@
+/* REGOLE GENERALI */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* SEZIONE CONTAINERS */
+#containers [class*="container"] {
+    background-color: lightblue;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* SEZIONE GRID SYSTEM */
+#grid-system .row {
+    margin-bottom: 20px;
+}
+
+#grid-system .box {
+    background-color: magenta;
+    font-weight: bold;
+    padding: 30px;
+}
